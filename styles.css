@@ -20,8 +20,10 @@ body {
         url("images/bg-pattern-bottom-mobile.svg");
     background-repeat: no-repeat, no-repeat;
     background-position: top left, bottom right;
-    background-size: 100%;
+    position: absolute;
+    background-size: 50%;
 }
+
 
 /*HEADER INFORMATION*/
 .title {
