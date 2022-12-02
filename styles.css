@@ -114,6 +114,21 @@ header {
     margin-bottom: 2em;
 }
 
+.review1>img {
+    border-radius: 50%;
+    margin-right: 32px;
+}
+
+.review2>img {
+    border-radius: 50%;
+    margin-right: 32px;
+}
+
+.review3>img {
+    border-radius: 50%;
+    margin-right: 32px;
+}
+
 .reviews {
     display: flex;
     margin: 2em;
